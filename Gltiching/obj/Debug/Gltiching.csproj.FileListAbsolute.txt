@@ -1,0 +1,6 @@
+C:\Users\DNA\source\repos\Gltiching\Gltiching\bin\Debug\Gltiching.exe.config
+C:\Users\DNA\source\repos\Gltiching\Gltiching\bin\Debug\Gltiching.exe
+C:\Users\DNA\source\repos\Gltiching\Gltiching\bin\Debug\Gltiching.pdb
+C:\Users\DNA\source\repos\Gltiching\Gltiching\obj\Debug\Gltiching.csproj.CoreCompileInputs.cache
+C:\Users\DNA\source\repos\Gltiching\Gltiching\obj\Debug\Gltiching.exe
+C:\Users\DNA\source\repos\Gltiching\Gltiching\obj\Debug\Gltiching.pdb
