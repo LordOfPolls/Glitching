@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Name: Glitching
+Author: Daniel Bearman
+Creation: 15/03/2018
+State: INCOMPLETE
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
